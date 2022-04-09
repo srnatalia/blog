@@ -212,6 +212,7 @@ defaults:
         toc: true
       show_edit_on_github: false
       show_subscribe: false
+      show_date: false
       pageview: true
 
 

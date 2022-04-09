@@ -2,10 +2,10 @@ header:
     
   - titles: 
       en      : &EN       Python 
-    url: /archive.html 
+    url:  
   - titles: 
       en      : &EN       SQL 
-    url: /archive.html 
+    url:  
   
  - titles: 
       en      : &EN       Data Science 

@@ -2,10 +2,11 @@ header:
     
   - titles: 
       en      : &EN       Python 
-    url:  
+    url: /pages/python.html 
+    
   - titles: 
       en      : &EN       SQL 
-    url:  
+    url: /pages/sql.html
   
  - titles: 
       en      : &EN       Data Science 

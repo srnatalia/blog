@@ -1,5 +1,4 @@
-header:
-    
+header:    
   - titles: 
       en      : &EN       Python 
     url: /pages/python.html 

@@ -1,15 +1,5 @@
 header: 
-  - titles: 
-      en      : &EN       Python 
-    url: /pages/python.html 
-    
-  - titles: 
-      en      : &EN       SQL 
-    url: /pages/sql.html
-  
- - titles: 
-      en      : &EN       Data Science 
-    url: /archive.html 
+   
 
  - titles: 
       en      : &EN       About 
